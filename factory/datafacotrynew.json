@@ -1,0 +1,9 @@
+{
+	"name": "datafacotrynew",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6a234c4f-e737-49dc-be3c-c149fd2712d3",
+		"tenantId": "5de97d5f-ca4c-486b-86a3-fd555b3d1034"
+	}
+}
