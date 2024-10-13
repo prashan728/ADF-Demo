@@ -34,6 +34,9 @@
 				}
 			],
 			"scriptLines": [
+				"parameters{",
+				"     parameter1 as string",
+				"}",
 				"source(output(",
 				"          ORDERNUMBER as short,",
 				"          QUANTITYORDERED as short,",
